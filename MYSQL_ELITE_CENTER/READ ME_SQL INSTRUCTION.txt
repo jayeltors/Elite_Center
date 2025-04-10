@@ -1,0 +1,14 @@
+MYSQL INSTRUCTION
+
+Create a Connection on MYSQL WORKBENCH
+
+*you could use config the i used
+
+Username - root
+password - admin@1234567
+localhost
+
+After Creating a A connection Run the First part MYSQL (Mysql_Thesis_FirstPart)
+Then follow the Second Part (Mysql_Thesis_SecondPart)
+
+
